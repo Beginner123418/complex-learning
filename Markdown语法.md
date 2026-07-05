@@ -345,3 +345,15 @@ Markdown 官方中文网还提及了以下扩展语法：
 | **列表**  | 同一个列表中保持分隔符一致，数字后仅使用英文句点 `.` |
 | **链接**  | URL 中的空格请使用 `%20` 代替         |
 | **分隔线** | 分隔线的前后均添加空白行                 |
+# 四、公式编辑
+$$
+z = a_i + b^m + \frac{a}{b} + \sqrt{x} +\alpha+\beta
+$$
+$$
+z = \omega(\zeta) = ia \frac{1 + \zeta}{1 - \zeta} + i \sum_{k=1}^n \beta_k \left( \zeta^k - \zeta^{-k} \right)
+$$
+ 
+
+$$
+z = \omega(\zeta) = ia \frac{1 + \zeta}{1 - \zeta} + i \sum_{k=1}^n \beta_k \left( \zeta^k - \zeta^{-k} \right) \tag{1}
+$$
