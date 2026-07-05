@@ -3,5 +3,5 @@
   "release.previous-version": "4.2.7",
   "link.hosted-prefer": "browser",
   "host.bilibili.disable-danmaku": true,
-  "link.click-behavior": "window"
+  "link.click-behavior": "split-top"
 }
