@@ -1,0 +1,24 @@
+{
+  "types": {
+    "zhihu-title": "text",
+    "zhihu-link": "text",
+    "zhihu-cover": "text",
+    "zhihu-question": "text",
+    "zhihu-author": "text",
+    "zhihu-topics": "multitext",
+    "zhihu-disclaimer": "multitext",
+    "zhihu-content-updated": "datetime",
+    "zhihu-content-created": "datetime",
+    "zhihu-updated-at": "datetime",
+    "zhihu-created-at": "datetime",
+    "zhihu-likes": "number",
+    "zhihu-comments": "number",
+    "zhihu-favorites": "number",
+    "zhihu-toc": "checkbox",
+    "zhihu-answers": "number",
+    "zhihu-visits": "number",
+    "zhihu-upVotes": "number",
+    "zhihu-downVotes": "number",
+    "zhihu-followers": "number"
+  }
+}

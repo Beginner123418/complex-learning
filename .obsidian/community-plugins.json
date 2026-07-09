@@ -2,5 +2,17 @@
   "obsidian-git",
   "obsidian-custom-attachment-location",
   "media-extended",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "obsidian-excalidraw-plugin",
+  "templater-obsidian",
+  "dataview",
+  "table-editor-obsidian",
+  "calendar",
+  "editing-toolbar",
+  "copilot",
+  "code-styler",
+  "obsidian-zotero-desktop-connector",
+  "easy-typing-obsidian",
+  "obsidian-latex-suite",
+  "zhihu"
 ]
